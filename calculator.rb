@@ -1,4 +1,5 @@
 class Calculator
+
   def self.add(a, b)
     a + b
   end
@@ -6,4 +7,5 @@ class Calculator
   def self.subtract(a, b)
     a - b
   end
+  
 end
